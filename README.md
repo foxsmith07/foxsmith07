@@ -1,7 +1,7 @@
 WELCOME TO MY PAGE!
-- 👋 Hi, I’m Fortunato, I'm a Fullstack developer and i'm from Naples, Italy
+👋 Hi, I’m Fortunato, I'm a Fullstack developer and i'm from Naples, Italy
   
-- 👀 I’m like coding and my Technologies used are:
+👀 I’m like coding and my Technologies used are:
 
 - HTML
 - CSS
