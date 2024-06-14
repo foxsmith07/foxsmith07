@@ -13,14 +13,20 @@ Throughout my professional journey, I have had the opportunity to work on a wide
 
 Technologies used:
 
-- HTML                   - BOOTSTRAP    - MySQL
-- CSS                    - LARAVEL      - PYTHON 
-- JAVASCRIPT VANILLA     - PHP          - Bash and Linux system
+- HTML                  
+- CSS                   
+- JAVASCRIPT VANILLA     
+- BOOTSTRAP
+- LARAVEL
+- PHP
+- MySQL
+- PYTHON
+- Bash and Linux System
 
 Contact Me
 If you need a full stack developer, systems maintenance, scripting or help desk, please don't hesitate to contact me. I'd be happy to discuss how I can help you achieve your technology goals.
 
- Email: fortunato.didomenico@gmail.com
- Linkedin: https://www.linkedin.com/in/fortunato-di-domenico/
- GitHub: https://github.com/foxsmith07
+ - Email: fortunato.didomenico@gmail.com
+ - Linkedin: https://www.linkedin.com/in/fortunato-di-domenico/
+ - GitHub: https://github.com/foxsmith07
 
