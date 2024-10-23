@@ -4,7 +4,7 @@
 
 👋 My name is Fortunato Di Domenico and I'm a full stack developer with more 11 years experience in IT sector. Actually work in Nomad Digital where I do troubleshooting on ours Linux sistem, scripting Bash and Python, Monitoring, Service Desk and hardware maintenance. My career is characterized by a passion for  IT, programming and constant commitment to innovation and efficency.
   
-👀 My experience:
+**👀 My experience:**
 
 Throughout my professional journey, I have had the opportunity to work on a wide range of projects and technologies. Here are some areas where I excel:
 
