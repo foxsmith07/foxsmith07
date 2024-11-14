@@ -14,7 +14,7 @@ Throughout my professional journey, I have had the opportunity to work on a wide
 - Help Desk: I provide first and second-level technical support, quickly resolving user issues and ensuring high customer satisfaction.
 - System Monitoring: I use advanced monitoring tools to ensure the highest efficiency and availability of corporate systems.
 
-Technologies used:
+##Technologies used:
 
 - HTML                  
 - CSS                   
@@ -26,7 +26,7 @@ Technologies used:
 - PYTHON
 - Bash and Linux System
 
-Contact Me:
+## Contact Me:
 
 If you need a full stack developer, systems maintenance, scripting or help desk, please don't hesitate to contact me. I'd be happy to discuss how I can help you achieve your technology goals.
 
