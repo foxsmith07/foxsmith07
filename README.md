@@ -14,7 +14,7 @@ Throughout my professional journey, I have had the opportunity to work on a wide
 - Help Desk: I provide first and second-level technical support, quickly resolving user issues and ensuring high customer satisfaction.
 - System Monitoring: I use advanced monitoring tools to ensure the highest efficiency and availability of corporate systems.
 
-##Technologies used:
+## Technologies used:
 
 - HTML                  
 - CSS                   
